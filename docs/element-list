@@ -1,0 +1,8 @@
+unnamed package
+qu4lizz.automata.automaton
+qu4lizz.automata.dfa_code_generator
+qu4lizz.automata.exception
+qu4lizz.automata.loader
+qu4lizz.automata.regex
+qu4lizz.automata.state
+qu4lizz.automata.util

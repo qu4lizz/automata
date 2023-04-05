@@ -1,0 +1,7 @@
+DFA 
+q0
+q0 false a-q1 b-q2
+q1 false a-q3 b-q1
+q2 false a-q2 b-q4
+q3 true a-q3 b-q1
+q4 true a-q2 b-q4

@@ -1,0 +1,8 @@
+NFA
+q0
+q0 false a-q5-q3-q1 b-q4
+q1 false b-q1
+q2 true e-q1-q5
+q3 false e-q5
+q4 false e-q3
+q5 true e-q2
